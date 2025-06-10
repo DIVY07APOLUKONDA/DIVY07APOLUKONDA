@@ -8,7 +8,7 @@ I bridge the gap between business needs and technical solutions.
 
 ## 🧭 About Me
 
-I’m a data analytics professional with 3+ years of industry experience and a Master’s in Applied Statistics & Data Science from the **University of Texas at Arlington**.
+I’m a data analytics professional with 4+ years of industry experience and a Master’s in Computer Science from the **University of Texas at Arlington**.
 My passion lies in transforming business problems into data-driven solutions using advanced analytics, visual storytelling, and cloud-native tools.
 
 I’ve worked on real-world projects involving:
